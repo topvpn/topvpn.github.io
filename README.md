@@ -12,4 +12,4 @@
 
 [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，可同时连接最多6个设备，长周期购买，价格最经济，30天内退款保证
 
-[**pureVPN**](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场，31天内可以退款。
+[pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场，31天内可以退款。
