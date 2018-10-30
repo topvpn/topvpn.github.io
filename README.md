@@ -1,6 +1,6 @@
 # 几个在中国大陆好用稳定的付费VPN，长期更新
 
-科学上网，要术业有专攻，分享几个在中国国内好用的付费VPN，免费的才是最贵的，不多解释。
+科学上网，要术业有专攻，分享几个在中国国内好用的付费VPN，不要用免费的，免费的才是最贵的，不要用国内的，不多解释。
 
 有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉。
 
@@ -8,7 +8,7 @@
 
 [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，使用效果最优，30天内无条件退款。
 
-[**golden frog vyprVPN**](https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008)，2010年成立，注册地在瑞士，拥有自己的服务器，综合性价比最优惠，三天免费试用。[VyprVPN中国大陆国内访问通道](https://www.joingf.com/zh/vyprvpn/special/vpn-seasonal-special?offer_id=174&aff_id=3008&url_id=118)(不用翻墙)
+[**golden frog vyprVPN**](https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008)，2010年成立，注册地在瑞士，拥有自己的服务器，综合性价比最优惠，三天免费试用。[VyprVPN中国大陆国内访问通道](https://www.joingf.com/zh/vyprvpn/special/vpn-seasonal-special?offer_id=174&aff_id=3008&url_id=118)(←不用翻/墙，可直接访问)
 
 [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，可同时连接最多6个设备，长周期购买，价格最经济，30天内退款保证
 
