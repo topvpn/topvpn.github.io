@@ -1,5 +1,7 @@
 # 几个在中国大陆好用稳定的付费VPN，长期更新
 
+*if you are an English reader, visit [this page](https://topvpn.github.io/china)*
+
 ![中国 科学上网 翻墙， 好用稳定的付费VPN推荐](https://image.ibb.co/k2W470/0.png "墙")
 
 科学上网，要术业有专攻，分享几个在中国(大陆)国内好用稳定的付费VPN，不要用免费的，免费的才是最贵的，不要用国内的，不多解释。
