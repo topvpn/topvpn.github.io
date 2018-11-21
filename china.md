@@ -1,6 +1,6 @@
 # Top good VPN working effectively in China
 
-In China mainland, there are many useful websites are blocked by the GFW(great fire wall), such as google, gmail, youtube, twitter, wikipedia, linkedin, Instagram..., too many that I can't list them all.
+In China mainland, there are many useful websites are blocked by the GFW(great fire wall), such as google, gmail, google maps, youtube, twitter, facebook, wikipedia, linkedin, Instagram..., too many that I can't list them all.
 
 You need a good VPN to help you to unblock these websites in China, this page will share some very good VPN working fine in China.
 
