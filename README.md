@@ -2,13 +2,13 @@
 
 *if you are an English reader, visit [this page](https://topvpn.github.io/china)*
 
-![中国 科学上网 翻墙， top vpn working fine in china, 好用稳定的付费VPN推荐](https://image.ibb.co/k2W470/0.png "墙")
+![中国能用的VPN 科学上网 翻墙， top vpn working fine in china, 好用稳定的付费VPN推荐，本页面推荐的VPN支持以下常用系统/设备：苹果iOS iPhone手机，(Google) android 安卓，Mac、Windows、Linux系统的电脑等](https://image.ibb.co/k2W470/0.png "墙")
 
 科学上网，要术业有专攻，分享几个在中国(大陆)国内好用稳定的付费VPN，不要用免费的，免费的才是最贵的，不要用国内的，不多解释。
 
 有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉。
 
-以下VPN 都可以很好的支持苹果设备，当然也支持android手机和Windows电脑等设备；使用不满意的话，都能够在规定的时间内发起退款；都可以通过支付宝、paypal和银行卡信用卡等在线付款；有问题的话，都可以通过在线客服获得及时的帮助。各VPN的价格、付费周期及其它详情请到其各自的官网详细了解。
+以下VPN 都可以很好的支持苹果设备(如iPhone手机、iPad平板和Mac电脑)，当然也支持android手机和Windows电脑等设备；使用不满意的话，都能够在规定的时间内发起退款；都可以通过支付宝、paypal和银行卡信用卡等在线付款；有问题的话，都可以通过在线客服获得及时的帮助。各VPN的价格、付费周期及其它详情请到其各自的官网详细了解。
 
 [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，使用效果最优，30天内无条件退款。
 
