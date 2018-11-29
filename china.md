@@ -2,7 +2,7 @@
 
 In China mainland, there are many useful websites are blocked by the GFW(great fire wall), such as google, gmail, google maps, youtube, twitter, facebook, wikipedia, linkedin, Instagram, Medium..., too many that I can't list them all.
 
-You need a good VPN to help you to unblock these websites in China, this page will share some very good VPN working fine in China. *btw, with the help of these VPNs, you can watch Netflix no matter where you are, what you need to do is choose the right server.*
+You need a good VPN to help you to unblock these websites in China, this page will share some very good VPNs working fine in China. *btw, with the help of these VPNs, you can watch Netflix no matter where you are, what you need to do is choose the right server.*
 
 [**expressVPN**](http://www.linkev.com/?a_fid=clover), established in 2009, registered in the British Virgin Islands, supports unconditional refund within 30 days.
 
@@ -10,6 +10,6 @@ You need a good VPN to help you to unblock these websites in China, this page wi
 
 [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=13110), established in 2012, registered in Panama, you can connect up to 6 devices at the same time, 30-day money back guarantee.
 
-btw, Which server node to choose?
+Which server node to choose?
 
 Choose the corresponding server node according to your needs and preferences, usually, you are advised to use the server nodes in Japan (Tokyo), South Korea (Seoul), Singapore, Taiwan, the US West Coast or other places which geographically close to China mainland.
