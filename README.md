@@ -1,8 +1,8 @@
-# 几个在中国大陆稳定快速好用的付费VPN推荐，长期更新
+# 几个在中国大陆稳定快速好用的付费VPN推荐，长期更新，2019
 
 *if you are an English reader, visit [this page](https://topvpn.github.io/china)*
 
-![中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的付费VPN推荐，本页面推荐的VPN支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓，Mac、Windows、Linux系统的电脑等，节点多、速度快](https://image.ibb.co/k2W470/0.png "墙")
+![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的付费VPN推荐，本页面推荐的VPN支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓，Mac、Windows、Linux系统的电脑等，节点多、速度快](https://image.ibb.co/k2W470/0.png "墙")
 
 科学/上网，要术业有专攻，分享几个在中国(大陆)国内好用稳定的付费VPN，不要用免费的，免费的才是最贵的，不要用国内的，不多解释。
 
@@ -17,6 +17,6 @@
 
 [**golden frog vyprVPN**](https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器，综合性价比最优惠，三天免费试用。[VyprVPN中国大陆国内访问通道](https://www.joingf.com/zh/vyprvpn/special/vpn-seasonal-special?offer_id=174&aff_id=3008&url_id=118)(←不用翻/墙，可直接访问)，☆记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
 
-[**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，可同时连接最多6个设备，长周期购买，价格最经济，30天内退款保证
+[**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，可同时连接最多6个设备，长周期购买，价格最经济(便宜)，30天内退款保证
 
 [pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场，31天内可以退款。相对来说，还是更推荐使用以上三个。
