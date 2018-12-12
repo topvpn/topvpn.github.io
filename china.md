@@ -1,8 +1,8 @@
 # Top good VPN working effectively in China, 2019
 
-![2019 good vpn for android, ios phones, windows and linux computers](https://i.ibb.co/LPr05pd/china-vpn.jpg "best vpn working in china")
+![2019 good vpn for android, ios phones, windows and linux computers, spotify china vpn](https://i.ibb.co/LPr05pd/china-vpn.jpg "best vpn working in china")
 
-In China mainland, there are many useful websites are blocked by the GFW(great fire wall), such as google, gmail, google maps, youtube, twitter, facebook, wikipedia, linkedin, Instagram, Medium..., too many that I can't list them all.
+In China mainland, there are many useful websites are blocked by the GFW(great fire wall), such as google, gmail, google maps, spotify, youtube, twitter, facebook, wikipedia, linkedin, Instagram, Medium..., too many that I can't list them all.
 
 You need a good VPN to help you to unblock these websites in China, this page will share some very good VPNs working fine in China. *btw, with the help of these VPNs, you can watch Netflix no matter where you are, what you need to do is choose the right server.*
 
