@@ -14,4 +14,4 @@ You need a good VPN to help you to unblock these websites in China, this page wi
 
 Which server node to choose?
 
-Choose the corresponding server node according to your needs and preferences, usually, you are advised to use the server nodes in Japan (Tokyo), South Korea (Seoul), Singapore, Taiwan, the US West Coast or other places which geographically close to China mainland.
+Choose the corresponding server node according to your needs and preferences, usually, you are advised to use the server nodes in Japan (Tokyo), South Korea (Seoul), Singapore, Taiwan, the US West Coast or other places which geographically close to China mainland, if you have any problems, you can contact with online customer via live chat.
