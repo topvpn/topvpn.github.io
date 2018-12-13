@@ -1,4 +1,4 @@
-# 几个在中国大陆稳定快速好用的付费VPN推荐，长期更新，2019
+# 几个在中国大陆国内稳定快速好用的付费VPN推荐，长期更新，2019
 
 *if you are an English reader, visit [this page](https://topvpn.github.io/china)*
 
