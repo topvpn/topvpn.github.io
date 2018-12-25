@@ -2,7 +2,7 @@
 
 *if you are an English reader, visit [this page](https://topvpn.github.io/china)*
 
-![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，本页面推荐的VPN支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓，Mac、Windows、Linux系统的电脑等，节点多、速度快](https://image.ibb.co/k2W470/0.png "墙")
+![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，best vpn app for china, 本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，节点多、速度快](https://image.ibb.co/k2W470/0.png "墙")
 
 科学/上网，要术业有专攻，分享几个在中国(大陆)国内好用稳定的付费VPN，不要用免费的，免费的才是最贵的，便宜无好货、好货不便宜，更不用说"免费"的了；也不要用国内的，不多解释，直接用国外的。
 
@@ -22,3 +22,5 @@
 [pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场，31天内可以退款。相对来说，还是更推荐使用以上三个。
 
 最后，随便说一下网络隐私，互联网上没有绝对的0隐私，即使用vpn等或者更高级的加密方法，也绝对不能保证你的100%的匿名。绝对的网络匿名和隐私，需要 你从来不上网、并且也没有任何别人在网上提及你。
+
+*^This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook*
