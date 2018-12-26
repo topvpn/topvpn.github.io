@@ -23,4 +23,4 @@
 
 最后，随便说一下网络隐私，互联网上没有绝对的0隐私，即使用vpn等或者更高级的加密方法，也绝对不能保证你的100%的匿名。绝对的网络匿名和隐私，需要 你从来不上网、并且也没有任何别人在网上提及你。
 
-*^This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook*
+*^ This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook 本页面长期更新，敬请收藏*
