@@ -13,6 +13,8 @@
 
 关于服务器节点的选用：根据你的需要和偏好选择相应的节点，平常使用的话，建议选择位于亚洲的日本(东京)/韩国(首尔)/新加坡/香港地区/台湾地区或美国西海岸等距离china mainland地理位置较近的服务器节点。
 
+注册的时候不建议使用QQ等国内邮箱
+
 [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，使用效果最优，最好的VPN之一，已加入后宫，30天内无条件退款。
 
 [**golden frog vyprVPN**](https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器，综合性价比最优惠，三天免费试用。[VyprVPN中国大陆国内访问通道](https://www.joingf.com/zh/vyprvpn/special/vpn-seasonal-special?offer_id=174&aff_id=3008&url_id=118)(←不用翻/墙，可直接访问)，☆记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
@@ -23,4 +25,4 @@
 
 最后，随便说一下网络隐私，互联网上没有绝对的0隐私，即使用vpn等或者更高级的加密方法，也绝对不能保证你的100%的匿名。绝对的网络匿名和隐私，需要 你从来不上网、并且也没有任何别人在网上提及你。
 
-*^ This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook 本页面长期更新，敬请收藏*
+*^ This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook 本页面长期更新，敬请添加收藏*
