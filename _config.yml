@@ -1,3 +1,5 @@
 
 # Google Analytics
 google_analytics: UA-131350444-1
+
+theme: jekyll-theme-cayman
