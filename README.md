@@ -2,7 +2,7 @@
 
 *if you are an English reader, visit [this page](https://topvpn.github.io/china)*
 
-![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，中国vpn服务器，best vpn app for china, 付费vpn排行，本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，节点多、速度快、稳定好用](https://image.ibb.co/k2W470/0.png "墙")
+![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，中国vpn服务器，best vpn app for china, 付费vpn排行，中国vpn购买推荐，本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，节点多、速度快、稳定好用](https://image.ibb.co/k2W470/0.png "墙")
 
 科学的/上网，要术业有专攻，分享几个在中国(大陆)国内好用稳定的付费VPN，不要用免费的，免费的才是最贵的，便宜无好货、好货不便宜，更不用说"免费"的了；也不要用国内的，不多解释，直接用国外的。
 
@@ -29,4 +29,4 @@
 
 科学的上网的同时，务必遵守国，家的宪法和法律等，坚决维护国家的主权和荣誉，希望国家在各方面的发展都会越来越好
 
-*^ This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook 分享在国内好用的付费vpn，本页面长期更新，敬请添加收藏*
+*^ This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook 在国内好用的付费vpn购买推荐，本页面长期更新，敬请添加收藏*
