@@ -1,6 +1,6 @@
 # Top good VPN services working effectively in China, 2019
 
-![2019 china good vpn for android, ios phones, windows and linux computers, spotify china vpn](https://i.ibb.co/LPr05pd/china-vpn.jpg "best vpn working in china")
+![2019 china good vpn for android, ios phones, windows and linux computers, spotify, netflix china vpn](https://raw.githubusercontent.com/0dg/abc/master/china-vpn.jpg "best vpn working in china")
 
 In China mainland, there are many useful websites are blocked by the GFW(great fire wall), such as google, gmail, google maps, youtube, twitter, facebook, wikipedia, quora, *spotify*, Instagram, Medium..., too many that I can't list them all.
 
