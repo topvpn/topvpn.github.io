@@ -19,7 +19,7 @@
 
 [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，口碑好，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，节点多，不限速，使用效果最优，最好用的VPN之一，已加入后宫，30天内无条件退款。
 
-[**golden frog vyprVPN**](https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志)，综合性价比最优惠，三天免费试用(用支付宝付款的话虽没有试用期，但是30天内可发起退款)。[VyprVPN中国大陆国内访问通道](https://www.joingf.com/zh/vyprvpn/special/vpn-seasonal-special?offer_id=174&aff_id=3008&url_id=118)(←不用翻/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
+[**golden frog vyprVPN**](https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志)，综合性价比最优惠，三天免费试用。[VyprVPN中国大陆国内访问通道](https://www.joingf.com/zh/vyprvpn/special/vpn-seasonal-special?offer_id=174&aff_id=3008&url_id=118)(←不用翻/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
 
 [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济(便宜)，30天内退款保证
 
