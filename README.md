@@ -29,6 +29,6 @@
 
 最后，随便说一下网络隐私，互联网上没有绝对的0隐私，即使使用vpn等或者更高级的加密方法，也绝对不能保证你的100%的匿名。绝对的网络匿名和隐私，需要 你从来不上网、并且也没有任何别人在网上提及你
 
-科学的上网的同时，务必遵守国，家的宪法和法律，坚决维护国家的主权和荣誉，希望国家在各方面的发展都会越来越好
+科学的上网(在方便学习 工作和生活)的同时，务必遵守国，家的宪法和法律，坚决维护国家的主权和荣誉，希望国家在各方面的发展都会越来越好
 
 *^ This page will keep up to date to mark sure all the listed vpn services can work fine in mainland CN, bookmark [the link](https://topvpn.github.io) of this page, or share it with your friends via your social websites, such as twitter and facebook 在国内好用的付费vpn购买推荐，本页面长期更新，敬请添加收藏*
