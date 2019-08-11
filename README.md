@@ -21,7 +21,7 @@
 
 + [**golden frog vyprVPN**](https://vyprvpn.com/zh/refer?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://getvy.net/zh/refer?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
 
-+ [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，使用的时候选择开启混淆服务器模式，30天内退款保证
++ [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，30天内退款保证，使用的时候选择开启混淆服务器模式
 
 + [pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场(在国外的话，可以通过它的国内节点来正常访问国内的网页内容，如优酷 哔哩哔哩 网易音乐等)，31天内可以退款。相对来说，还是更推荐使用以上三个。
 
