@@ -17,13 +17,13 @@
 
 注册的时候不建议使用QQ等国内邮箱，推荐用Gmail
 
-[**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，口碑好，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，节点多，不限速，私有+加密dns，可以解锁观看Netflix等，使用效果最优，最好用的VPN之一，已加入后宫，年付的话价格更优惠点，30天内无条件退款。
++ [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，口碑好，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，节点多，不限速，私有+加密dns，可以解锁观看Netflix等，使用效果最优，最好用的VPN之一，已加入后宫，年付的话价格更优惠点，30天内无条件退款。
 
-[**golden frog vyprVPN**](https://vyprvpn.com/zh/refer?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://getvy.net/zh/refer?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
++ [**golden frog vyprVPN**](https://vyprvpn.com/zh/refer?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://getvy.net/zh/refer?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
 
-[**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，使用的时候开始混淆服务器模式，30天内退款保证
++ [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，使用的时候开始混淆服务器模式，30天内退款保证
 
-[pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场(在国外的话，可以通过它的国内节点来正常访问国内的网页内容，如优酷 哔哩哔哩 网易音乐等)，31天内可以退款。相对来说，还是更推荐使用以上三个。
++ [pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场(在国外的话，可以通过它的国内节点来正常访问国内的网页内容，如优酷 哔哩哔哩 网易音乐等)，31天内可以退款。相对来说，还是更推荐使用以上三个。
 
 中国大陆国内的网络环境比较…(有"特色")，使用不满意的话，记得及时在规定的时间内发起退款
 
