@@ -2,7 +2,7 @@
 
 *if you read English, visit [this page](https://topvpn.github.io/china)*
 
-![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，"中国vpn"+"服务器"，best vpn app for china, 付费vpn排行，中国vpn购买推荐，本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，好用的vpn，不记录活动日志vpn，优质国外付费vpn推荐，节点多、速度快、稳定好用，"expressvpn怎么样"，vpn 优惠，vpn 中国 推荐 国内好用的国外vpn "多设备连接" "国外vpn服务器" "付费" "vpn" "价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
+![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，"中国vpn"+"服务器"，best vpn app for china, 付费vpn排行，中国vpn购买推荐，本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，好用的vpn，不记录活动日志vpn，优质国外付费vpn推荐，节点多、速度快、稳定好用，"expressvpn怎么样"，vpn 优惠，国内好用的国外vpn "多设备连接" "国外vpn服务器" "付费vpn" "价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
 
 科学的/上网，要术业有专攻，分享几个在全球范围(含中国大陆国内)好用稳定的付费VPN，不要用免费的，免费的才是最贵的，便宜无好货、好货不便宜，更不用说"免费"的了；也不要用国内的，不多解释，直接用国外的。
 
@@ -21,7 +21,7 @@
 
 [**golden frog vyprVPN**](https://vyprvpn.com/zh/refer?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://getvy.net/zh/refer?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项。
 
-[**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，30天内退款保证
+[**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，使用的时候开始混淆服务器模式，30天内退款保证
 
 [pureVPN](https://billing.purevpn.com/aff.php?aff=35614)，早在2006年就在香港特区成立运营，实力和规模相较于上面几个小一点，主要针对中国大陆的vpn市场(在国外的话，可以通过它的国内节点来正常访问国内的网页内容，如优酷 哔哩哔哩 网易音乐等)，31天内可以退款。相对来说，还是更推荐使用以上三个。
 
