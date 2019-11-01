@@ -2,15 +2,15 @@
 
 *if you read English, visit [this page](https://topvpn.github.io/china)*
 
-![2019年在中国能用的VPN 科学上网 翻墙， top vpn working fine in china，稳定好用的国外付费VPN推荐，"中国vpn"+"服务器"，best vpn app for china, 付费vpn排行，中国vpn购买推荐，本页面推荐的VPN均支持以下常用系统/设备：Apple苹果iOS iPhone手机，(Google) android 安卓手机，Mac、Windows、Linux系统的电脑等，好用的vpn，不记录活动日志vpn，优质国外付费vpn推荐，节点多、速度快、稳定好用，"expressvpn怎么样"，vpn 优惠，国内好用的国外vpn "多设备连接" "国外vpn服务器" "付费vpn" "价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
+![2019年在中国能用的好用的稳定的国外付费VPN推荐 科学上网 翻墙， top vpn working fine in china mainland，"价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
 
-科学的/上网，要术业有专攻，分享几个在全球范围(含中国大陆国内)好用稳定的付费VPN
+科学的/上网，要术业有专攻，分享几个在全球范围(含中国大陆国内)稳定的好用的国际付费VPN
 
-不要用免费的，免费的大都不稳定、速度慢、有广告、限制多、需要花费大量的时间和精力、尤其是 用户的网络隐私安全问题等，总之，免费的才是最贵的，便宜无好货、好货不便宜，更不用说"免费"的了；也不要用国内的，不多解释，直接用国外的。
+不要用免费的，免费的基本上大部分都不稳定、速度慢、有广告、限制多、需要花费大量的时间和精力、尤其是 用户的网络隐私安全问题等，总之，免费的才是最贵的，便宜无好货、好货不便宜，更不用说"免费"的了；也不要用国内的，不多解释，直接用国外的。
 
 有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉
 
-简单说明vpn的作用：在你的联网设备与服务器之间建立一个安全的网络通道，通过获得的新IP地址来访问网络、隐藏了真实的IP地理位置、数据加密安全传输等
+简单说明vpn的作用：在你的联网设备与服务器之间建立一个安全的网络通道，通过获得的新IP地址来访问网络、隐藏了物理的实际的IP地理位置、数据加密安全传输等
 
 ?怎么样：以下VPN 都可以很好的支持苹果Apple iOS系统的设备(如iPhone手机、iPad平板和Mac电脑)，当然也支持Google Android安卓手机和Windows、Linux系统的电脑，甚至路由器等设备；使用不满意的话，都能够在购买后规定的时间内发起退款；都可以通过支付宝、paypal或银行卡信用卡等在线付款；有问题的话，都可以通过在线客服获得及时的帮助。各VPN的价格、付费周期、APP下载及其它详情请到其各自的官网详细了解。
 国内的用户，使用过程中，记得及时更新软件
@@ -21,7 +21,7 @@
 
 ### 几个在中国大陆好用的优质付费vpn推荐：
 
-+ [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，口碑好，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，节点多，不限速，私有+加密dns，可以解锁观看Netflix等，使用效果最优，最好用的VPN之一，已加入后宫，年付的话价格更优惠点，30天内无条件退款
++ [**expressVPN**](http://www.linkev.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，口碑好，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，节点多，不限速，私有+加密dns，可以解锁观看Netflix等，使用效果最优，在中国国内最稳定、最好用的VPN之一，已加入后宫，年付的话价格更优惠点，30天内无条件退款
 
 + [**golden frog vyprVPN**](https://vyprvpn.com/zh/refer?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://getvy.net/zh/refer?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项
 
