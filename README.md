@@ -2,7 +2,7 @@
 
 *if you read English, visit [this page](https://topvpn.github.io/china)*
 
-![2021年在中国能用的好用的稳定的快速的优质的可靠的国外付费VPN推荐 科学上网 翻墙， top vpn working fine in china mainland，大陸穩定的vpn購買推薦，电脑游戏vpn，好用的游戏加速器推荐，"价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
+![2021年在中国能用的好用的稳定的快速的优质的可靠的国外付费VPN推荐 科学上网 翻墙， top vpn working fine in china mainland，大陸穩定的vpn購買推薦，电脑游戏vpn，好用的游戏加速器推荐，vpn 购买 推荐，快速 稳定 安全 可靠，"价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
 
 科学的/上网，要术业有专攻，分享几个在全球范围(含中国大陆国内)稳定的好用的国际付费VPN
 
@@ -23,7 +23,7 @@
 
 + [**expressVPN**](https://www.xvbelink.com/?a_fid=clover)，2009年成立，注册地在英属维尔京群岛，口碑好，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，节点多，不限速，私有且加密dns，没有流量限制，配置简单、多平台支持，可以解锁观看Netflix等，使用效果最优，在中国国内最稳定、最好用的VPN~~之一~~，已加入后宫，年付的话价格更优惠点，30天内无条件退款
 
-+ [**golden frog vyprVPN**](https://www.vyprvpn.com/zh/refer/china?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://www.getvy.net/zh/refer/china?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，☆划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项
++ [**golden frog vyprVPN**](https://www.vyprvpn.com/zh/refer/china?offer_id=174&aff_id=3008)，2010年成立，注册地在欧洲瑞士，拥有自己的服务器与硬件等基础设施，NO LOGS(零日志，不记录用户访问和连接等日志)，综合性价比最优惠，~~三天免费试用~~ ，现在也是支持30天内退款保证了。[VyprVPN中国大陆国内访问通道](https://www.getvy.net/zh/refer/china?offer_id=174&aff_id=3008)(←不用f(番)/墙，可直接访问)，划重点：记得选择premium套餐，这样才可以使用其变色龙协议Chameleon Protocol来科学的/上网，再说一遍使用的时候记得勾选Chameleon Protocol选项
 
 + [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&amp;aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，30天内退款保证，使用的时候选择开启Obfuscated Servers混淆服务器模式
 
