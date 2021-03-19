@@ -10,7 +10,7 @@ No matter which vpn service you choose, you're suggested to buy it and download 
 
 [**expressVPN**](https://www.xvbelink.com/?a_fid=clover), established in 2009, registered in the British Virgin Islands, probably is the best one, supports unconditional refund within 30 days.
 
-[**Golden frog vyprVPN**](https://vyprvpn.com/refer?offer_id=174&aff_id=3008), established in 2010, registered in Europe Switzerland, now it also supports 30 days money back guarantee. In case you already are in China, you can visit it via [this link](https://getvy.net/refer?offer_id=174&aff_id=3008), remember to choose its Premium account so that you can use its Chameleon technology.
+[**Golden frog vyprVPN**](http://powerhouse.go2cloud.org/aff_c?offer_id=174&aff_id=3008), established in 2010, registered in Europe Switzerland, now it also supports 30 days money back guarantee,remember to choose its premium account so that you can use its Chameleon technology.
 
 [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=13110), established in 2012, registered in Panama, you can connect up to 6 devices at the same time, 30-day money back guarantee.
 
