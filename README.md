@@ -2,7 +2,7 @@
 
 *if you read English, visit [this page](https://topvpn.github.io/china)*
 
-![在中国能用的好用的稳定的快速的优质的可靠的国外付费VPN推荐 科学上网 翻墙， top vpn working fine in china mainland，大陸穩定的vpn購買推薦，电脑游戏vpn，好用的游戏加速器推荐，vpn 购买 推荐，"价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
+![在中国能用的好用的稳定的快速的优质的可靠的国外付费VPN推荐 科学上网 翻墙， top vpn working fine in china mainland，大陸穩定的vpn購買推薦，电脑游戏vpn，好用的游戏加速器推荐，可靠的 安全的 vpn 购买 推荐，"价格" "试用" "比较" "哪个好用" "netflix中国"](https://raw.githubusercontent.com/0dg/abc/master/cn-wall.png "墙")
 
 科学的/上网，要术业有专攻，分享几个在全球范围(含中国大陆国内)稳定的好用的国际付费VPN
 
