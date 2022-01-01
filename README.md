@@ -22,7 +22,7 @@
 
 ### 几个在中国大陆好用的优质付费vpn购买推荐
 
-+ [**expressVPN**](https://www.xvbelink.com/?a_fid=clover)，首先，2009年成立，注册地在英属维尔京群岛，这个是公认的最好用的，30天内可以退款，口碑好，很受欢迎，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，ExpressVPN的vpn服务器运行在RAM (Random Access Memory)上，每次重启都会擦除所有数据，相当于电脑的内存条，不可能保留数据，安全可靠，节点多，不限速，私有且加密dns，没有流量限制，配置简单、多平台支持，可以解锁观看Netflix等，使用效果最优，在中国国内最稳定、最好用的VPN~~之一~~，已加入后宫，年付的话价格更优惠点，30天内无条件退款
++ [**expressVPN**](https://www.xvbelink.com/?a_fid=clover)，首选，2009年成立，注册地在英属维尔京群岛，这个是公认的最好用的，30天内可以退款，口碑好，很受欢迎，256位AES(Advanced Encryption Standard)高级加密，No activity logs(不记录用户活动日志)，ExpressVPN的vpn服务器运行在RAM (Random Access Memory)上，每次重启都会擦除所有数据，相当于电脑的内存条，不可能保留数据，安全可靠，节点多，不限速，私有且加密dns，没有流量限制，配置简单、多平台支持，可以解锁观看Netflix等，使用效果最优，在中国国内最稳定、最好用的VPN~~之一~~，已加入后宫，年付的话价格更优惠点，30天内无条件退款
 
 + [**nordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=13110)，2012年成立，注册地在巴拿马，双重数据加密，No-log policy(无数据日志记录)，可同时连接最多6个设备，长周期购买，价格最经济实惠(便宜)，30天内退款保证，使用的时候选择开启Obfuscated Servers混淆服务器模式
 
