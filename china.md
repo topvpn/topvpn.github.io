@@ -8,7 +8,7 @@ You need a good VPN to help you to unblock these websites in China, this page wi
 
 No matter which vpn service you choose, you're suggested to buy it and download its app on your phone/computer BEFORE your trip to china mainland.
 
-[**expressVPN**](https://tiny.cc/good6a) (via THIS LINK, if you buy the 12 months plan, you will get 12+3 months, including
+[**expressVPN**](https://tiny.cc/topvpn) (via THIS LINK, if you buy the 12 months plan, you will get 12+3 months, including
 3 free months), established in 2009, registered in the British Virgin Islands, probably is the best one, supports unconditional refund within 30 days.
 
 [**Golden frog vyprVPN**](http://powerhouse.go2cloud.org/aff_c?offer_id=174&aff_id=3008), established in 2010, registered in Europe Switzerland, now it also supports 30 days money back guarantee, remember to choose its premium account so that you can use its Chameleon technology.
