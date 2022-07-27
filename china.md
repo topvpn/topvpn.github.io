@@ -17,6 +17,7 @@ No matter which vpn service you choose, you're suggested to buy it and download 
 
 /
 
-Which server node to choose?
+**Which server node to choose?**
 
 Choose the corresponding server node according to your needs and preferences, usually, you are advised to use the server nodes in Japan (Tokyo), South Korea (Seoul), Singapore, Hongkong China, (ROC)Taiwan, the US West Coast or other places which geographically close to China mainland, if you have any problems, you can contact with online customer service via live chat.
+
